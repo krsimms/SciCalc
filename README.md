@@ -1,2 +1,2 @@
 # SciCalc
-Scientific Calculator
+Scientific Calculator created using C#
